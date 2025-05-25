@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mydata\\wasim sir class practise\\EcommerseWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4457309-2DBF-437E-A968-4ABF8F58B631}|EcommerseWebApi\\EcommerseWebApi.csproj|d:\\mydata\\wasim sir class practise\\ecommersewebapi\\ecommersewebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4457309-2DBF-437E-A968-4ABF8F58B631}|EcommerseWebApi\\EcommerseWebApi.csproj|solutionrelative:ecommersewebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4457309-2DBF-437E-A968-4ABF8F58B631}|EcommerseWebApi\\EcommerseWebApi.csproj|d:\\mydata\\wasim sir class practise\\ecommersewebapi\\ecommersewebapi\\model\\table\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4457309-2DBF-437E-A968-4ABF8F58B631}|EcommerseWebApi\\EcommerseWebApi.csproj|solutionrelative:ecommersewebapi\\model\\table\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4457309-2DBF-437E-A968-4ABF8F58B631}|EcommerseWebApi\\EcommerseWebApi.csproj|d:\\mydata\\wasim sir class practise\\ecommersewebapi\\ecommersewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4457309-2DBF-437E-A968-4ABF8F58B631}|EcommerseWebApi\\EcommerseWebApi.csproj|solutionrelative:ecommersewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4457309-2DBF-437E-A968-4ABF8F58B631}|EcommerseWebApi\\EcommerseWebApi.csproj|d:\\mydata\\wasim sir class practise\\ecommersewebapi\\ecommersewebapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4457309-2DBF-437E-A968-4ABF8F58B631}|EcommerseWebApi\\EcommerseWebApi.csproj|solutionrelative:ecommersewebapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4457309-2DBF-437E-A968-4ABF8F58B631}|EcommerseWebApi\\EcommerseWebApi.csproj|d:\\mydata\\wasim sir class practise\\ecommersewebapi\\ecommersewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4457309-2DBF-437E-A968-4ABF8F58B631}|EcommerseWebApi\\EcommerseWebApi.csproj|solutionrelative:ecommersewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4457309-2DBF-437E-A968-4ABF8F58B631}|EcommerseWebApi\\EcommerseWebApi.csproj|d:\\mydata\\wasim sir class practise\\ecommersewebapi\\ecommersewebapi\\model\\table\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4457309-2DBF-437E-A968-4ABF8F58B631}|EcommerseWebApi\\EcommerseWebApi.csproj|solutionrelative:ecommersewebapi\\model\\table\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4457309-2DBF-437E-A968-4ABF8F58B631}|EcommerseWebApi\\EcommerseWebApi.csproj|d:\\mydata\\wasim sir class practise\\ecommersewebapi\\ecommersewebapi\\controllers\\databasemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4457309-2DBF-437E-A968-4ABF8F58B631}|EcommerseWebApi\\EcommerseWebApi.csproj|solutionrelative:ecommersewebapi\\controllers\\databasemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\mydata\\wasim sir class practise\\EcommerseWebApi\\EcommerseWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerseWebApi\\appsettings.json",
+              "ToolTip": "D:\\mydata\\wasim sir class practise\\EcommerseWebApi\\EcommerseWebApi\\appsettings.json",
+              "RelativeToolTip": "EcommerseWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAC9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T17:47:23.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "D:\\mydata\\wasim sir class practise\\EcommerseWebApi\\EcommerseWebApi\\Model\\Table\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "EcommerseWebApi\\Model\\Table\\ProductCategory.cs",
+              "ToolTip": "D:\\mydata\\wasim sir class practise\\EcommerseWebApi\\EcommerseWebApi\\Model\\Table\\ProductCategory.cs",
+              "RelativeToolTip": "EcommerseWebApi\\Model\\Table\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:34:24.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\mydata\\wasim sir class practise\\EcommerseWebApi\\EcommerseWebApi\\Model\\Table\\Product.cs",
+              "RelativeDocumentMoniker": "EcommerseWebApi\\Model\\Table\\Product.cs",
+              "ToolTip": "D:\\mydata\\wasim sir class practise\\EcommerseWebApi\\EcommerseWebApi\\Model\\Table\\Product.cs",
+              "RelativeToolTip": "EcommerseWebApi\\Model\\Table\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:34:15.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\mydata\\wasim sir class practise\\EcommerseWebApi\\EcommerseWebApi\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "EcommerseWebApi\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\mydata\\wasim sir class practise\\EcommerseWebApi\\EcommerseWebApi\\ApplicationDBContext.cs",
+              "RelativeToolTip": "EcommerseWebApi\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:53:00.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\mydata\\wasim sir class practise\\EcommerseWebApi\\EcommerseWebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EcommerseWebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\mydata\\wasim sir class practise\\EcommerseWebApi\\EcommerseWebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EcommerseWebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:52:19.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataBaseMasterController.cs",
+              "DocumentMoniker": "D:\\mydata\\wasim sir class practise\\EcommerseWebApi\\EcommerseWebApi\\Controllers\\DataBaseMasterController.cs",
+              "RelativeDocumentMoniker": "EcommerseWebApi\\Controllers\\DataBaseMasterController.cs",
+              "ToolTip": "D:\\mydata\\wasim sir class practise\\EcommerseWebApi\\EcommerseWebApi\\Controllers\\DataBaseMasterController.cs",
+              "RelativeToolTip": "EcommerseWebApi\\Controllers\\DataBaseMasterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:52:17.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\mydata\\wasim sir class practise\\EcommerseWebApi\\EcommerseWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerseWebApi\\Program.cs",
+              "ToolTip": "D:\\mydata\\wasim sir class practise\\EcommerseWebApi\\EcommerseWebApi\\Program.cs",
+              "RelativeToolTip": "EcommerseWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:45:45.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

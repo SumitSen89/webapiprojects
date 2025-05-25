@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EcommerseWebApi",
+    "\\EcommerseWebApi\\Model",
+    "\\EcommerseWebApi\\Model\\Implementation",
+    "\\EcommerseWebApi\\Model\\Table"
+  ],
+  "SelectedNode": "\\EcommerseWebApi\\Model\\Implementation\\IMP_SpecificationType.cs",
+  "PreviewInSolutionExplorer": false
+}
